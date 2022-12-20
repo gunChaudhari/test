@@ -7,6 +7,6 @@ if hungry == ("yes" or "Yes" or "YES"):
     print("Eat nuts")
 else:
     print("Go to sleep")
-    print("Go to sleep")
+    print("Drink soda")
 print("Go to sleep")
 

@@ -3,7 +3,7 @@ hungry = input("are you hungry?")
 if hungry == ("yes" or "Yes" or "YES"):
     print("Eat fruits")
     print("Eat fruits")
-    print("Eat fruits")
+    print("Eat veges")
     print("Eat nuts")
 else:
     print("Go to sleep")
